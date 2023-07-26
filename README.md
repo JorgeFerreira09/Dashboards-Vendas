@@ -14,4 +14,4 @@ Conhecimentos adquiridos na semana da EmpowerData.
 
 ![mobileb](https://github.com/JorgeFerreira09/Dashboards-Vendas/assets/106722825/cfa9d009-3859-4ebd-b65b-447281a4e24b)
 
-![mobile c](https://github.com/JorgeFerreira09/Dashboards-Vendas/assets/106722825/048c90a4-630b-44a8-aca3-ea8dfc04b2e5)
+![mobile c](https://github.com/JorgeFerreira09/Dashboards-Vendas/assets/106722825/36a7a93c-8448-4579-988b-60c34ee4b544)
